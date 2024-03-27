@@ -1,0 +1,86 @@
+2024-03-24T21:00:11.238Z [right meow!] info: Hey I am just checking winston
+2024-03-24T21:01:48.998Z [right meow!] info: Hey I am just checking winston
+2024-03-24T21:11:35.722Z [right meow!] info: Hey I am just checking winston
+2024-03-24T21:11:57.447Z [right meow!] info: Hey I am just checking winston
+2024-03-24T21:14:17.179Z [right meow!] info: Hey I am just checking winston
+2024-03-24T21:18:01.908Z [right meow!] info: Hey I am just checking winston
+2024-03-24T21:21:50.752Z [right meow!] info: Hey I am just checking winston
+2024-03-24T21:25:06.429Z [right meow!] info: Hey I am just checking winston
+2024-03-24T21:27:05.587Z [right meow!] info: Hey I am just checking winston
+2024-03-24T21:29:49.653Z [right meow!] info: Hey I am just checking winston
+2024-03-24T21:30:25.035Z [right meow!] info: Hey I am just checking winston
+2024-03-24T21:30:37.724Z [right meow!] info: Hey I am just checking winston
+2024-03-24T21:30:42.153Z [right meow!] error: [object Object]
+2024-03-27T16:44:52.033Z [right meow!] info: Hey I am just checking winston
+2024-03-27T16:49:52.867Z [right meow!] info: Hey I am just checking winston
+2024-03-27T16:49:56.960Z [right meow!] error: [object Object]
+2024-03-27T16:51:10.986Z [right meow!] info: Hey I am just checking winston
+2024-03-27T16:51:15.765Z [right meow!] error: Mail command failed: 451 4.0.0 Invalid from
+2024-03-27T16:52:08.319Z [right meow!] info: Hey I am just checking winston
+2024-03-27T16:52:12.823Z [right meow!] error: Message failed: 502 5.7.0 Your SMTP account is not yet activated. Please contact us at contact@sendinblue.com to request activation.
+2024-03-27T16:58:28.681Z [right meow!] error: Message failed: 502 5.7.0 Your SMTP account is not yet activated. Please contact us at contact@sendinblue.com to request activation.
+2024-03-27T17:01:03.248Z [right meow!] error: Message failed: 502 5.7.0 Your SMTP account is not yet activated. Please contact us at contact@sendinblue.com to request activation.
+2024-03-27T17:04:30.548Z [right meow!] error: Message failed: 502 5.7.0 Your SMTP account is not yet activated. Please contact us at contact@sendinblue.com to request activation.
+2024-03-27T17:17:51.536Z [right meow!] error: Message failed: 502 5.7.0 Your SMTP account is not yet activated. Please contact us at contact@sendinblue.com to request activation.
+2024-03-27T17:36:20.153Z [right meow!] error: Message failed: 502 5.7.0 Your SMTP account is not yet activated. Please contact us at contact@sendinblue.com to request activation.
+2024-03-27T17:49:32.090Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:02:32.315Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:02:38.659Z [right meow!] error: undefined
+2024-03-27T18:04:09.445Z [right meow!] error: undefined
+2024-03-27T18:12:50.855Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:13:59.702Z [right meow!] info: email sent successfully.
+2024-03-27T18:16:09.526Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:16:16.369Z [right meow!] error: Invalid login: 535 Authentication failed
+2024-03-27T18:17:34.628Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:17:40.346Z [right meow!] error: Invalid login: 535 Authentication failed
+2024-03-27T18:18:33.471Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:18:44.080Z [right meow!] info: email sent successfully.
+2024-03-27T18:21:31.432Z [right meow!] info: email sent successfully.
+2024-03-27T18:24:31.469Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:24:53.427Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:25:52.099Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:25:59.427Z [right meow!] info: [object Object]
+2024-03-27T18:27:51.750Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:29:35.625Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:29:41.592Z [right meow!] info: 250 2.0.0 OK: queued as <16a6bf5e-84b9-0f0b-6c8b-e4042ff98b86@gmail.com>
+2024-03-27T18:33:00.388Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:33:42.884Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:38:07.295Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:39:18.353Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:40:54.543Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:40:57.509Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:42:27.360Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:43:08.380Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:45:33.127Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:46:46.400Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:47:00.944Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:47:36.661Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:48:48.710Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:49:14.273Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:49:32.918Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:50:15.832Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:54:11.596Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:56:47.710Z [right meow!] info: Hey I am just checking winston
+2024-03-27T18:56:56.977Z [right meow!] info: Job completed
+2024-03-27T19:01:40.784Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:03:08.496Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:03:57.270Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:04:07.836Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:04:32.634Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:05:20.574Z [right meow!] error: emailQueue is not a function
+2024-03-27T19:05:44.059Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:08:30.657Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:10:46.131Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:11:25.967Z [right meow!] info: 250 2.0.0 OK: queued as <8319c209-aaa7-d8dd-c0f2-d869ca837bf3@gmail.com>
+2024-03-27T19:11:25.976Z [right meow!] info: Job completed
+2024-03-27T19:13:53.760Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:14:01.093Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:14:08.316Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:16:56.028Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:19:14.497Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:19:36.142Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:19:44.747Z [right meow!] info: Job completed
+2024-03-27T19:21:29.873Z [right meow!] info: Hey I am just checking winston
+2024-03-27T19:21:38.014Z [right meow!] info: Job completed
+2024-03-27T19:21:39.279Z [right meow!] info: 250 2.0.0 OK: queued as <d6801de9-ba56-05c7-1390-522aec00d0b5@gmail.com>
+2024-03-27T19:21:39.416Z [right meow!] info: 250 2.0.0 OK: queued as <bf8ead2e-bc89-2ec6-b5c2-b19c35ba9181@gmail.com>

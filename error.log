@@ -1,0 +1,14 @@
+2024-03-24T21:30:42.153Z [right meow!] error: [object Object]
+2024-03-27T16:49:56.960Z [right meow!] error: [object Object]
+2024-03-27T16:51:15.765Z [right meow!] error: Mail command failed: 451 4.0.0 Invalid from
+2024-03-27T16:52:12.823Z [right meow!] error: Message failed: 502 5.7.0 Your SMTP account is not yet activated. Please contact us at contact@sendinblue.com to request activation.
+2024-03-27T16:58:28.681Z [right meow!] error: Message failed: 502 5.7.0 Your SMTP account is not yet activated. Please contact us at contact@sendinblue.com to request activation.
+2024-03-27T17:01:03.248Z [right meow!] error: Message failed: 502 5.7.0 Your SMTP account is not yet activated. Please contact us at contact@sendinblue.com to request activation.
+2024-03-27T17:04:30.548Z [right meow!] error: Message failed: 502 5.7.0 Your SMTP account is not yet activated. Please contact us at contact@sendinblue.com to request activation.
+2024-03-27T17:17:51.536Z [right meow!] error: Message failed: 502 5.7.0 Your SMTP account is not yet activated. Please contact us at contact@sendinblue.com to request activation.
+2024-03-27T17:36:20.153Z [right meow!] error: Message failed: 502 5.7.0 Your SMTP account is not yet activated. Please contact us at contact@sendinblue.com to request activation.
+2024-03-27T18:02:38.659Z [right meow!] error: undefined
+2024-03-27T18:04:09.445Z [right meow!] error: undefined
+2024-03-27T18:16:16.369Z [right meow!] error: Invalid login: 535 Authentication failed
+2024-03-27T18:17:40.346Z [right meow!] error: Invalid login: 535 Authentication failed
+2024-03-27T19:05:20.574Z [right meow!] error: emailQueue is not a function
