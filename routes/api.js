@@ -7,6 +7,17 @@ import redisCache from "../db/redis.config.js";
 
 const router = Router();
 
+/** 
+ * @swagger 
+ *   /auth/register:
+ *      post:
+ *         summary: Post the detail of the user.
+ *         description: Retrive a list of sample items.
+ *         responses: 
+ *          200: 
+ *              description: A list of Samples.
+*/
+
 router.post('/auth/register', AuthController.register);
 router.post("/auth/login", AuthController.login)
 
